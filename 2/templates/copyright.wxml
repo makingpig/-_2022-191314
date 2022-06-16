@@ -1,3 +1,0 @@
-<template name="tempCopyright">
-<view style="margin-top: 24rpx;">  © {{webSiteName}} {{domain}} </view>
-</template>
